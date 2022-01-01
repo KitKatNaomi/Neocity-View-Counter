@@ -11,6 +11,10 @@ Note: This was designed for Windows and May not work on other Systems.
 # Installation
 - Download and Install Python, Node.js and Imagemagick (with Legacy Utilities)
 - Download This Repo and Unarchive to a folder
+- Install the Neocities API
+```
+$ npm install neocities
+```
 - Run Install.py within the folder
 - Add Neocity Login Info
 - Wait for it to install the reqired files
