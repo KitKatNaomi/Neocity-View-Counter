@@ -12,10 +12,9 @@ Note: This was designed for Windows and May not work on other Systems.
 - Download and Install Python, Node.js and Imagemagick (with Legacy Utilities)
 - Download This Repo and Unarchive to a folder
 - Run Install.py within the folder
-- Select your Login Method
-- Add API key or Login Info
+- Add Neocity Login Info
 - Wait for it to install the reqired files
-- Done!
+- Restart then you're done!
 
 # Running the Counter
 
