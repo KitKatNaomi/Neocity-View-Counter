@@ -5,7 +5,7 @@ Note: This was designed for Windows and May not work on other Systems.
 # Requirements
 - [Python 3.10 or Newer](https://www.python.org/)
 - [Node.js 16 or Newer](https://nodejs.org/)
--
+- Other Requirements will be made during Installation
 
 # Installation
 - Download and Install Python and Node.js
