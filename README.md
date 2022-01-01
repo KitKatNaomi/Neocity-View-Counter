@@ -23,3 +23,5 @@ $ npm install neocities
 ```bash
 python count.py
 ```
+
+Note: You can edit the batch file to change the images color
