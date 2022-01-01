@@ -6,7 +6,6 @@ Note: This was designed for Windows and May not work on other Systems.
 - [Python 3.10 or Newer](https://www.python.org/)
 - [Node.js 16 or Newer](https://nodejs.org/)
 - [Imagemagick with Legacy Utilities](https://imagemagick.org/)
-- Other Requirements will be made during Installation
 
 # Installation
 - Download and Install Python, Node.js and Imagemagick (with Legacy Utilities)
@@ -15,9 +14,8 @@ Note: This was designed for Windows and May not work on other Systems.
 ```
 $ npm install neocities
 ```
-- Run Install.py within the folder
-- Add Neocity Login Info
-- Wait for it to install the reqired files
+- Open the 2 Node in a text editor 
+- Than add login details where written
 - Restart then you're done!
 
 # Running the Counter
