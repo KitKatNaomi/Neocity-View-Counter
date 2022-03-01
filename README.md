@@ -14,8 +14,8 @@ Note: This was designed for Windows and May not work on other Systems.
 ```
 $ npm install neocities
 ```
-- Open the 2 Node in a text editor 
-- Than add login details where written
+- Open the 2 Node Projects in a text editor 
+- Then add login details where written
 - Restart then you're done!
 
 # Running the Counter
@@ -24,4 +24,4 @@ $ npm install neocities
 python main.py
 ```
 
-Note: You can edit the batch file to change the images color
+Note: You can edit the batch file to change the counters text and bg color
